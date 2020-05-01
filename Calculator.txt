@@ -4,6 +4,8 @@ Cal{
 
 sum()
 {
+ returns(a+b);
+
 }
 
 dif()
